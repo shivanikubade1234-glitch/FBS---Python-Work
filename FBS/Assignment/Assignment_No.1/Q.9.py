@@ -1,7 +1,0 @@
-# Find Area of Triangle
-base = int(input("Enter base: "))
-height =int(input("Enter height: "))
-
-area = 1/2 * base * height
-
-print("area of triangle = ",area)
